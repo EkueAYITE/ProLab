@@ -78,6 +78,7 @@ body{
     height: 500px;
     padding-left: 200px;
     margin: 10px;
+     margin-top: -70px;
  }
  .undertext {
     display: flex;
@@ -141,4 +142,76 @@ p {
 }
 
 /* PART 4*/
+.part4 {
+    display: flex;
+    align-items: center;
+    font-size: 65px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 50px;
+    padding-left: 120px;
+    padding-top: 250px;
+    color: #CCCCCC;
+}
 
+.part4 span {
+    color: #800946;
+}
+.Spart4 h1{
+    margin-top: -50px;
+    font-size: 25px;
+    color: #CCCCCC;
+    padding-left: 150px;
+    font-weight: none;
+}
+
+
+.button {
+    font-size: 10px;
+    background-color: #800946;
+    color: #fff;
+    padding: 10px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-left: 200px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+/* Second card */
+.expertise-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    gap: 14rem;
+}
+
+.expertise-item {
+    text-align: center;
+    margin: 0 20px;
+}
+
+.expertise-item img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+/* PART 5 */
+.part5 {
+    color: #CCCCCC;
+    text-align: center;
+    justify-content: center;
+    padding: 80px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.part5 h1 {
+    font-size: 70px;
+}
+.part5 h2 {
+    font-size: 15px;
+    text-align: center;
+}
+/* card 3 */
